@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Your one-stop destination for free online tools. Compress images, convert PDFs, and more!">
     <meta name="keywords" content="image tools, PDF tools, online tools, compress images, convert PDF">
-    <meta name="author" content="Your Name">
+    <meta name="author" content="Your Krishna">
     <title>Online Tools - Free Image & PDF Tools</title>
     <style>
         /* CSS Variables for easy theming */
